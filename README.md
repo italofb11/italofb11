@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## olá meu nome é *italo*
+perfil para fazer o projeto da alura
 <!--
 **italofb11/italofb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
